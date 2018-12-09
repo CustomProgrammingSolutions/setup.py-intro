@@ -6,7 +6,7 @@ setup(name='hello_world',
       url='https://www.customprogrammingsolutions.com',
       author='Janis Lesinskis',
       license='GPLv3',
-      packages=['hello_world']
+      packages=['hello_world'],
       classifiers = [
           'Development Status :: 4 - Beta',
           'Intended Audience :: Developers',

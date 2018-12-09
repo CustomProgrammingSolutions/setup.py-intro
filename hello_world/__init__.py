@@ -12,4 +12,4 @@ def other_greeting():
 
 def secret_greeting():
     """This greeting will only be shown to people that know about it, anyone using a import * will not see this"""
-    print("Very secret greeting!)
+    print("Very secret greeting!")
