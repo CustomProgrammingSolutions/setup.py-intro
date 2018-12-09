@@ -11,3 +11,11 @@ The directory our package's files reside in is specified in the `setup` function
 ```python
       packages=['hello_world'],
 ```
+
+## How this is used
+
+You can install this library with pip with:
+
+```
+pip install .
+```
