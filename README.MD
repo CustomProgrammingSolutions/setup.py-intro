@@ -1,6 +1,6 @@
 # Hello world - setup.py version
 
-Tis repository is a very simple example of Python's packaging capabilities.
+This repository is a very simple example of Python's packaging capabilities.
 
 Have a look through the code included to see what is involved when a very simple package is installed.
 
